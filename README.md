@@ -42,9 +42,9 @@ Hi, I'm **Suriya R** from Krishnagiri, Tamil Nadu — a detail-oriented cybersec
 - 🐍 Scripting in **Python** for log parsing and automation, **Bash** for Linux tasks
 - 📍 Based in Krishnagiri, Tamil Nadu | Open to remote and on-site SOC roles
 
-| 🎯 Target Role | 📞 Contact | 📧 Email | 📍 Location |
+| 🎯 Target Role | 📧 Email | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| SOC Analyst L1 | 8667828601 | surya6379r@gmail.com | Krishnagiri, TN |
+| SOC Analyst L1 | surya6379r@gmail.com | Krishnagiri, TN |
 
 ---
 
@@ -321,7 +321,7 @@ soc-l1-journey/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suriya%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suriya-r)
 [![GitHub](https://img.shields.io/badge/GitHub-Suriya52-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suriya52)
 [![Email](https://img.shields.io/badge/Email-surya6379r%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya6379r@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-8667828601-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918667828601)
+
 
 *⭐ If this repo helps your learning journey, please give it a star!*
 
