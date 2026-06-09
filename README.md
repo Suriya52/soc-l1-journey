@@ -43,7 +43,7 @@ Hi, I'm **Suriya R** from Krishnagiri, Tamil Nadu — a detail-oriented cybersec
 - 📍 Based in Krishnagiri, Tamil Nadu | Open to remote and on-site SOC roles
 
 | 🎯 Target Role | 📧 Email | 📍 Location |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | SOC Analyst L1 | surya6379r@gmail.com | Krishnagiri, TN |
 
 ---
