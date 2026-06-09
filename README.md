@@ -20,8 +20,8 @@
 [![SOC Level](https://img.shields.io/badge/Level-SOC%20L1-blue?style=for-the-badge&logo=shield&logoColor=white)](.)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Suriya52/soc-l1-journey?style=for-the-badge&logo=github)](.)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suriya%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suriya-r)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SURIYA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suriya%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriya-r7/)
 [![GitHub](https://img.shields.io/badge/GitHub-Suriya52-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suriya52)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](.)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-50%2B%20Labs-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](.)
@@ -214,7 +214,7 @@ soc-l1-journey/
 | Kali Linux | Security OS | 🟡 Intermediate |
 | Python | Log parsing, automation | 🟡 Intermediate |
 | MySQL | Database queries | 🟡 Intermediate |
-| Splunk | SIEM | ⏳ Learning |
+| Splunk | SIEM | 🟡 Intermediate |
 | ELK Stack | SIEM | ⬜ Learning |
 | Wazuh | SIEM / EDR | ⬜ Learning |
 
@@ -266,9 +266,9 @@ soc-l1-journey/
 | **Networking Basics** | Cisco | ✅ Completed |
 | **Professional Ethical Hacking** | Alison | ✅ Completed |
 | **Cryptography** | Simplilearn | ✅ Completed |
-| **CompTIA Security+** | CompTIA | 📖 Studying |
+| **Splunk Core Certified User** | Splunk | 📖 Studying|
 | **BTL1** (Blue Team Level 1) | Security Blue Team | ⬜ Planned |
-| **Splunk Core Certified User** | Splunk | ⬜ Planned |
+| **CompTIA Security+** | CompTIA | ⬜ Planned |
 | **SC-200** (Microsoft Security Operations) | Microsoft | ⬜ Planned |
 
 ---
