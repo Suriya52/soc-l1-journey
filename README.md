@@ -10,20 +10,21 @@
       Security Operations Center — Level 1
 ```
 
-# 🛡️ SOC Analyst L1 — Learning Journey
+# 🛡️ Suriya R — SOC Analyst L1 Journey
 
-**Documenting my complete path from beginner to job-ready SOC Analyst**
+**Security Monitoring | Threat Detection | Incident Response | AWS Cloud Security**
 
 ---
 
 [![Learning Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white)](.)
 [![SOC Level](https://img.shields.io/badge/Level-SOC%20L1-blue?style=for-the-badge&logo=shield&logoColor=white)](.)
-[![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/soc-l1-journey?style=for-the-badge&logo=github)](.)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Suriya52/soc-l1-journey?style=for-the-badge&logo=github)](.)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Splunk](https://img.shields.io/badge/Splunk-Learning-000000?style=for-the-badge&logo=splunk&logoColor=white)](.)
-[![ELK Stack](https://img.shields.io/badge/ELK-Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](.)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suriya%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suriya-r)
+[![GitHub](https://img.shields.io/badge/GitHub-Suriya52-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suriya52)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](.)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-50%2B%20Labs-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](.)
 
 </div>
 
@@ -31,15 +32,19 @@
 
 ## 👤 About Me
 
-> **Aspiring SOC Analyst** | Cybersecurity Enthusiast | Continuous Learner
+> **SOC Analyst L1 Candidate** | AWS Cloud Security | Threat Detection | Blue Team Enthusiast
 
-Hi! I'm documenting my complete journey to becoming a **Security Operations Center (SOC) Level 1 Analyst**. This repository is my public learning journal, portfolio, and reference guide — built in the open so others on the same path can benefit.
+Hi, I'm **Suriya R** from Krishnagiri, Tamil Nadu — a detail-oriented cybersecurity professional targeting SOC Analyst L1 roles. I have hands-on experience in security monitoring, threat detection, and log analysis through real lab work and cloud environments.
 
-**My Goal:** Land a SOC L1 role by building real, demonstrable skills in threat detection, log analysis, incident response, and security tooling.
+- 🔭 Configured **AWS CloudTrail + CloudWatch + GuardDuty** for SIEM-style monitoring
+- 🧪 Completed **50+ PortSwigger labs** covering all OWASP Top 10 attack vectors
+- 🎯 Practiced **attacker TTPs** via Hack The Box and picoCTF (enumeration, privilege escalation, lateral movement)
+- 🐍 Scripting in **Python** for log parsing and automation, **Bash** for Linux tasks
+- 📍 Based in Krishnagiri, Tamil Nadu | Open to remote and on-site SOC roles
 
-| 🎯 Target Role | 📅 Journey Start | 🏁 Target Date | 📍 Location |
+| 🎯 Target Role | 📞 Contact | 📧 Email | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| SOC Analyst L1 | [Month Year] | [Month Year] | [Your City] |
+| SOC Analyst L1 | 8667828601 | surya6379r@gmail.com | Krishnagiri, TN |
 
 ---
 
@@ -65,48 +70,50 @@ Hi! I'm documenting my complete journey to becoming a **Security Operations Cent
 ## 🗺️ Learning Roadmap
 
 ```
-PHASE 1 ─────────────────────────────────── FOUNDATIONS
+PHASE 1 ─────────────────────────────────── FOUNDATIONS        [✅ STRONG BASE]
 │
-├── [ ] SOC Fundamentals & Blue Team Concepts    Weeks 1-2
-├── [ ] Networking Basics (TCP/IP, DNS, HTTP)    Weeks 2-3
-├── [ ] Linux Command Line for Security          Weeks 3-4
-└── [ ] Windows Security Fundamentals           Weeks 4-5
+├── [✅] SOC Fundamentals & Blue Team Concepts
+├── [✅] Networking Basics (TCP/IP, DNS, HTTP/S, Packet Analysis)
+├── [✅] Linux Command Line & Bash Scripting
+└── [✅] Windows Security Fundamentals
 
-PHASE 2 ─────────────────────────────────── CORE TOOLS
+PHASE 2 ─────────────────────────────────── CORE TOOLS         [⏳ IN PROGRESS]
 │
-├── [ ] SIEM — Splunk Fundamentals               Weeks 5-7
-├── [ ] SIEM — ELK Stack                         Weeks 7-8
-├── [ ] Log Analysis & Correlation               Weeks 8-9
-└── [ ] Security Tools (Nmap, Wireshark)         Weeks 9-10
+├── [✅] AWS SIEM-style Monitoring (CloudTrail + CloudWatch + GuardDuty)
+├── [⏳] SIEM — Splunk Fundamentals & SPL
+├── [⏳] SIEM — ELK Stack (Kibana + Elasticsearch)
+└── [✅] Log Analysis, IOC Identification & Alert Triage
 
-PHASE 3 ─────────────────────────────────── OPERATIONS
+PHASE 3 ─────────────────────────────────── OPERATIONS         [⏳ IN PROGRESS]
 │
-├── [ ] Incident Response (NIST/SANS)            Weeks 10-11
-├── [ ] MITRE ATT&CK Framework                   Weeks 11-12
-├── [ ] Threat Hunting Basics                    Weeks 12-13
-└── [ ] Detection Engineering & Sigma Rules      Weeks 13-14
+├── [✅] Incident Analysis (HTB + picoCTF simulations)
+├── [⏳] Formal Incident Response (NIST SP 800-61 / SANS PICERL)
+├── [✅] MITRE ATT&CK — TTPs via HTB (enumeration, privesc, lateral movement)
+└── [⏳] Detection Engineering & Sigma Rules
 
-PHASE 4 ─────────────────────────────────── SPECIALIZATION
+PHASE 4 ─────────────────────────────────── SPECIALIZATION     [⬜ PLANNED]
 │
-├── [ ] CTF Challenges (Blue Team Labs, THM)     Ongoing
-├── [ ] Capstone Projects (x3)                  Weeks 14-16
-├── [ ] Certification Prep (Security+/BTL1)     Weeks 16-18
-└── [ ] Portfolio Finalization & Job Hunting     Week 18+
+├── [⏳] CTF Challenges (Blue Team Labs, CyberDefenders)
+├── [⬜] Capstone Projects (x3)
+├── [⏳] Certification Prep (CompTIA Security+ / BTL1)
+└── [⬜] Portfolio Finalization & Job Applications
 ```
 
 ### 🏁 Milestones
 
 | # | Milestone | Target | Status |
 |---|-----------|--------|--------|
-| 1 | Complete Phase 1 — Foundations | Week 5 | ⏳ In Progress |
-| 2 | Set up home lab (SIEM + VMs) | Week 6 | ⬜ Not Started |
-| 3 | First TryHackMe SOC path room | Week 3 | ⬜ Not Started |
-| 4 | Complete Phase 2 — Core Tools | Week 10 | ⬜ Not Started |
-| 5 | Write first Sigma detection rule | Week 14 | ⬜ Not Started |
-| 6 | Complete 5 CTF challenges | Week 15 | ⬜ Not Started |
-| 7 | Finish 3 portfolio projects | Week 16 | ⬜ Not Started |
-| 8 | Pass CompTIA Security+ | Week 18 | ⬜ Not Started |
-| 9 | Apply to 10 SOC L1 positions | Week 19 | ⬜ Not Started |
+| 1 | AWS Security Lab (CloudTrail + GuardDuty) | ✅ Done | ✅ Completed |
+| 2 | 50+ PortSwigger OWASP Labs | ✅ Done | ✅ Completed |
+| 3 | SQL Injection Responsible Disclosure | ✅ Done | ✅ Completed |
+| 4 | HTB & picoCTF attack simulation | ✅ Done | ✅ Completed |
+| 5 | Complete Splunk Fundamentals | Week 4 | ⏳ In Progress |
+| 6 | Set up ELK Stack home lab | Week 6 | ⬜ Not Started |
+| 7 | Write first Sigma detection rule | Week 8 | ⬜ Not Started |
+| 8 | Complete 5 blue team CTF challenges | Week 10 | ⬜ Not Started |
+| 9 | Finish 3 portfolio projects | Week 12 | ⬜ Not Started |
+| 10 | Pass CompTIA Security+ or BTL1 | Week 16 | ⬜ Not Started |
+| 11 | Apply to 10 SOC L1 positions | Week 17 | ⬜ Not Started |
 
 ---
 
@@ -119,16 +126,16 @@ soc-l1-journey/
 ├── 📂 02-Networking-Basics/      TCP/IP, DNS, protocols, Wireshark labs
 ├── 📂 03-Linux-Fundamentals/     CLI, bash scripting, file system, logs
 ├── 📂 04-Windows-Fundamentals/   AD, Event Viewer, PowerShell, registry
-├── 📂 05-SIEM/                   Splunk, ELK, Wazuh notes and queries
+├── 📂 05-SIEM/                   Splunk, ELK, AWS CloudWatch/GuardDuty notes
 ├── 📂 06-Log-Analysis/           Log types, parsing, correlation techniques
 ├── 📂 07-Incident-Response/      IR playbooks, frameworks, case studies
 ├── 📂 08-Threat-Hunting/         Hunting methodologies, hypotheses, reports
 ├── 📂 09-MITRE-ATTCK/            Framework notes, TTPs, detection mappings
 ├── 📂 10-Detection-Engineering/  Sigma rules, YARA, detection logic
-├── 📂 11-Labs/                   Step-by-step lab walkthroughs
-├── 📂 12-CTF-Challenges/         CTF writeups and solutions
-├── 📂 13-Security-Tools/         Tool cheat sheets and usage notes
-├── 📂 14-Certifications/         Study notes (Sec+, BTL1, Splunk, etc.)
+├── 📂 11-Labs/                   HTB, picoCTF, AWS lab walkthroughs
+├── 📂 12-CTF-Challenges/         CTF writeups (BTL, CyberDefenders)
+├── 📂 13-Security-Tools/         Burp Suite, Wireshark, Nmap, Metasploit refs
+├── 📂 14-Certifications/         Study notes (Sec+, BTL1, Cisco, Forage)
 ├── 📂 15-Daily-Notes/            Daily learning logs
 ├── 📂 16-Weekly-Reports/         Weekly progress summaries
 ├── 📂 17-Projects/               Capstone and portfolio projects
@@ -144,63 +151,72 @@ soc-l1-journey/
 
 | Module | Topics Covered | Status | Completion |
 |--------|---------------|--------|------------|
-| SOC Fundamentals | SOC roles, tiers, alert triage | ⏳ In Progress | `████░░░░░░` 40% |
-| Networking Basics | TCP/IP, OSI, DNS, HTTP | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| Linux Fundamentals | CLI, permissions, log files | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| Windows Fundamentals | AD, Event IDs, PowerShell | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| SIEM (Splunk) | SPL queries, dashboards | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| SIEM (ELK) | Kibana, Logstash, KQL | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| Log Analysis | Windows/Linux/web logs | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| Incident Response | NIST framework, playbooks | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| Threat Hunting | Hypotheses, TTPs | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| MITRE ATT&CK | Tactics, techniques | ⬜ Not Started | `░░░░░░░░░░` 0% |
+| SOC Fundamentals | SOC roles, tiers, alert triage | ✅ Done | `██████████` 100% |
+| Networking Basics | TCP/IP, DNS, HTTP/S, packets | ✅ Done | `██████████` 100% |
+| Linux Fundamentals | CLI, Bash, log files | ✅ Done | `████████░░` 80% |
+| Windows Fundamentals | AD, Event IDs, PowerShell | ⏳ In Progress | `████░░░░░░` 40% |
+| AWS Cloud SIEM | CloudTrail, CloudWatch, GuardDuty | ✅ Done | `██████████` 100% |
+| SIEM (Splunk) | SPL queries, dashboards | ⏳ In Progress | `██░░░░░░░░` 20% |
+| SIEM (ELK Stack) | Kibana, Logstash, KQL | ⬜ Not Started | `░░░░░░░░░░` 0% |
+| Log Analysis | IOC hunting, correlation | ✅ Done | `████████░░` 80% |
+| Incident Response | NIST framework, playbooks | ⏳ In Progress | `███░░░░░░░` 30% |
+| Threat Hunting | TTPs, hypotheses | ⏳ In Progress | `████░░░░░░` 40% |
+| MITRE ATT&CK | Tactics, techniques, HTB mapping | ✅ Done | `██████░░░░` 60% |
 | Detection Engineering | Sigma, YARA rules | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| Labs & Hands-on | TryHackMe, home lab | ⬜ Not Started | `░░░░░░░░░░` 0% |
-| CTF Challenges | Blue team CTFs | ⬜ Not Started | `░░░░░░░░░░` 0% |
+| Labs & Hands-on | HTB, picoCTF, AWS | ✅ Done | `████████░░` 80% |
+| CTF Challenges | Blue team CTFs | ⏳ In Progress | `███░░░░░░░` 30% |
+| Web Vulnerability Analysis | 50+ PortSwigger labs, OWASP Top 10 | ✅ Done | `██████████` 100% |
 
 ### Weekly Activity
 
 | Week | Focus Area | Hours | Key Wins |
 |------|-----------|-------|----------|
-| Week 1 | SOC Fundamentals | — | — |
-| Week 2 | Networking + SOC | — | — |
-| Week 3 | Linux CLI | — | — |
-| Week 4 | Windows + AD | — | — |
-| Week 5 | Splunk Setup | — | — |
+| Week 1 | Splunk + ELK Setup | — | — |
+| Week 2 | Detection Engineering | — | — |
+| Week 3 | BTL CTF Challenges | — | — |
+| Week 4 | Sigma Rules | — | — |
+| Week 5 | IR Playbooks | — | — |
 
 ---
 
 ## 🧠 Skills Acquired
 
-### Blue Team Skills
+### Blue Team & SOC Skills
 
 | Skill | Level | Evidence |
 |-------|-------|----------|
-| Alert Triage | 🟡 Beginner | [Lab Report →](#) |
-| Log Analysis (Windows) | 🟡 Beginner | [Lab Report →](#) |
-| Splunk SPL Queries | ⬜ Not Yet | — |
+| Alert Triage | 🟢 Proficient | AWS GuardDuty Lab |
+| Log Analysis | 🟢 Proficient | CloudTrail + CloudWatch Lab |
+| IOC Identification | 🟢 Proficient | HTB + AWS Lab |
+| AWS SIEM Monitoring | 🟢 Proficient | [AWS IAM Lab →](./17-Projects/) |
+| OWASP Top 10 Recognition | 🟢 Proficient | 50+ PortSwigger Labs |
+| Incident Simulation | 🟡 Intermediate | HTB + picoCTF |
+| MITRE ATT&CK Mapping | 🟡 Intermediate | HTB TTP analysis |
+| Anomaly Detection | 🟡 Intermediate | GuardDuty findings |
+| Splunk SPL Queries | ⏳ Learning | — |
 | ELK / Kibana | ⬜ Not Yet | — |
-| Incident Response | ⬜ Not Yet | — |
-| MITRE ATT&CK Mapping | ⬜ Not Yet | — |
 | Sigma Rule Writing | ⬜ Not Yet | — |
-| Threat Hunting | ⬜ Not Yet | — |
-| Packet Analysis (Wireshark) | ⬜ Not Yet | — |
-| Malware Triage (Basic) | ⬜ Not Yet | — |
+| Formal Threat Hunting | ⬜ Not Yet | — |
 
-> 🟢 Proficient &nbsp;|&nbsp; 🟡 Beginner &nbsp;|&nbsp; ⬜ Not Yet
+> 🟢 Proficient &nbsp;|&nbsp; 🟡 Intermediate &nbsp;|&nbsp; ⏳ Learning &nbsp;|&nbsp; ⬜ Not Yet
 
-### Tools Exposure
+### Tools & Technologies
 
-| Tool | Category | Status |
-|------|----------|--------|
-| Splunk | SIEM | ⬜ Learning |
+| Tool | Category | Level |
+|------|----------|-------|
+| Burp Suite | Web Proxy / App Testing | 🟢 Proficient |
+| Wireshark | Network Analysis | 🟢 Proficient |
+| Nmap | Network Enumeration | 🟢 Proficient |
+| AWS GuardDuty | Threat Detection | 🟢 Proficient |
+| AWS CloudTrail | Log Monitoring | 🟢 Proficient |
+| AWS CloudWatch | Alerting / Monitoring | 🟢 Proficient |
+| Metasploit | Attack Simulation (lab) | 🟡 Intermediate |
+| Kali Linux | Security OS | 🟡 Intermediate |
+| Python | Log parsing, automation | 🟡 Intermediate |
+| MySQL | Database queries | 🟡 Intermediate |
+| Splunk | SIEM | ⏳ Learning |
 | ELK Stack | SIEM | ⬜ Learning |
 | Wazuh | SIEM / EDR | ⬜ Learning |
-| Wireshark | Network Analysis | ⬜ Learning |
-| Nmap | Recon | ⬜ Learning |
-| Suricata | IDS/IPS | ⬜ Learning |
-| Volatility | Memory Forensics | ⬜ Learning |
-| TheHive | SOAR / Case Mgmt | ⬜ Learning |
 
 ---
 
@@ -208,9 +224,11 @@ soc-l1-journey/
 
 | # | Project | Description | Tools | Report |
 |---|---------|-------------|-------|--------|
-| 1 | 🔍 Phishing Investigation | End-to-end analysis of phishing campaign: headers, URLs, IOC extraction | VirusTotal, MXToolbox | [View →](./17-Projects/01-phishing-investigation/) |
-| 2 | 🖥️ SIEM Home Lab | Deployed ELK + Wazuh on VMs; ingested Win/Linux logs; built dashboards | ELK, Wazuh, VirtualBox | [View →](./17-Projects/02-siem-home-lab/) |
-| 3 | 🚨 Brute Force Detection | Wrote Sigma rules for SSH/RDP brute force; validated in Splunk | Splunk, Sigma | [View →](./17-Projects/03-bruteforce-detection/) |
+| 1 | 🔍 SQL Injection Responsible Disclosure | Identified active SQLi in a production login endpoint using Burp Suite; documented and responsibly disclosed to the institution | Burp Suite | [View →](./17-Projects/P01-SQLi-Disclosure/) |
+| 2 | ☁️ AWS IAM Access Control Lab | Built multi-user IAM environment with RBAC + least-privilege, simulated privilege misuse and monitored via CloudTrail | AWS IAM, CloudTrail | [View →](./17-Projects/P02-AWS-IAM-Lab/) |
+| 3 | 🛡️ AWS Security Monitoring Lab | Configured CloudTrail + CloudWatch alerts + GuardDuty to simulate a SIEM-style SOC monitoring workflow | AWS CloudTrail, CloudWatch, GuardDuty | [View →](./17-Projects/P03-AWS-SIEM-Lab/) |
+| 4 | 🚨 Brute Force Detection Rule *(planned)* | Sigma rules for SSH/RDP brute force; validate in Splunk | Splunk, Sigma | *Coming Soon* |
+| 5 | 🏠 ELK SIEM Home Lab *(planned)* | Deploy ELK + Wazuh; ingest Windows/Linux logs; build dashboards | ELK, Wazuh, VirtualBox | *Coming Soon* |
 
 ---
 
@@ -218,34 +236,48 @@ soc-l1-journey/
 
 ### Incident Reports Written
 - [ ] IR-001: Suspected Phishing Attack — *[Date]*
-- [ ] IR-002: Malware on Endpoint — *[Date]*
-- [ ] IR-003: Unauthorized Access Attempt — *[Date]*
+- [ ] IR-002: GuardDuty — Unauthorized IAM Access Attempt — *[Date]*
+- [ ] IR-003: SQL Injection Attack Detection — *[Date]*
 
 ### Detection Rules Created
 - [ ] Sigma Rule — RDP Brute Force (T1110)
 - [ ] Sigma Rule — Suspicious PowerShell Execution (T1059.001)
-- [ ] Sigma Rule — Mimikatz Credential Dumping (T1003)
+- [ ] Sigma Rule — Unauthorized IAM API Calls (AWS)
 
 ### Threat Hunt Reports
-- [ ] Hunt-001: Lateral Movement via PsExec
-- [ ] Hunt-002: C2 Beaconing Detection
+- [ ] Hunt-001: Lateral Movement Indicators (HTB analysis)
+- [ ] Hunt-002: Unusual API Call Patterns in CloudTrail
 
-### CTF Writeups
+### CTF & Lab Writeups
+- [ ] [HTB — Enumeration & Privesc Analysis](./11-Labs/)
+- [ ] [picoCTF — Forensics Challenges](./11-Labs/)
+- [ ] [PortSwigger — OWASP Top 10 Labs Summary](./11-Labs/)
 - [ ] [Blue Team Labs Online — Phishing Analysis](./12-CTF-Challenges/)
-- [ ] [TryHackMe — Investigating with ELK](./12-CTF-Challenges/)
 - [ ] [CyberDefenders — Malware Traffic Analysis](./12-CTF-Challenges/)
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Provider | Status | Target |
-|--------------|----------|--------|--------|
-| **CompTIA Security+** | CompTIA | 📖 Studying | [Date] |
-| **BTL1** (Blue Team Level 1) | Security Blue Team | ⬜ Planned | [Date] |
-| **Splunk Core Certified User** | Splunk | ⬜ Planned | [Date] |
-| **Google Cybersecurity Cert** | Google / Coursera | ⬜ Planned | [Date] |
-| **SC-200** (Microsoft Security) | Microsoft | ⬜ Planned | [Date] |
+| Certification | Provider | Status |
+|--------------|----------|--------|
+| **Cybersecurity Analyst Job Simulation** | Forage | ✅ Completed |
+| **Introduction to Cybersecurity** | Cisco | ✅ Completed |
+| **Networking Basics** | Cisco | ✅ Completed |
+| **Professional Ethical Hacking** | Alison | ✅ Completed |
+| **Cryptography** | Simplilearn | ✅ Completed |
+| **CompTIA Security+** | CompTIA | 📖 Studying |
+| **BTL1** (Blue Team Level 1) | Security Blue Team | ⬜ Planned |
+| **Splunk Core Certified User** | Splunk | ⬜ Planned |
+| **SC-200** (Microsoft Security Operations) | Microsoft | ⬜ Planned |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score |
+|--------|-------------|-------|
+| B.Sc. Computer Science | Sacred Heart College (Autonomous), Tirupattur | 6.56 / 10 CGPA |
 
 ---
 
@@ -253,18 +285,18 @@ soc-l1-journey/
 
 ### Daily Habits
 - ✅ Commit at least one learning note to `15-Daily-Notes/`
-- ✅ Document every lab completed in `11-Labs/`
-- ✅ Add cheat sheets and references to relevant module folders
+- ✅ Document every lab in `11-Labs/` with findings and screenshots
+- ✅ Add cheat sheets and IOC references to relevant module folders
 
 ### Weekly Habits
 - ✅ Write a weekly summary in `16-Weekly-Reports/` every Sunday
-- ✅ Complete at least 1 TryHackMe/BTL room and document findings
-- ✅ Push any new Sigma rules, scripts, or detection content
+- ✅ Complete at least 1 TryHackMe / BTL room and document findings
+- ✅ Push new Sigma rules, Python scripts, or detection content
 
 ### Project Standards
-- ✅ Every project in `17-Projects/` must include: `README.md`, report, screenshots
-- ✅ Tag GitHub releases at major milestones
-- ✅ Keep GitHub Topics updated: `soc`, `blue-team`, `siem`, `threat-hunting`
+- ✅ Every project in `17-Projects/` includes: `README.md`, full report, screenshots, IOCs
+- ✅ Tag GitHub releases at major milestones (e.g. `v1.0-aws-lab-complete`)
+- ✅ GitHub Topics: `soc`, `blue-team`, `siem`, `aws-security`, `threat-detection`, `incident-response`
 
 ---
 
@@ -276,16 +308,20 @@ soc-l1-journey/
 | Blue Team Labs Online | Blue team challenges | [blueteamlabs.online](https://blueteamlabs.online) |
 | CyberDefenders | Blue team CTFs | [cyberdefenders.org](https://cyberdefenders.org) |
 | LetsDefend | SOC simulation | [letsdefend.io](https://letsdefend.io) |
+| PortSwigger Web Academy | Web vulnerability labs | [portswigger.net/web-security](https://portswigger.net/web-security) |
+| Hack The Box | Attack simulation | [hackthebox.com](https://hackthebox.com) |
 | MITRE ATT&CK | Framework | [attack.mitre.org](https://attack.mitre.org) |
 | Sigma HQ | Detection rules | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) |
+| AWS Security Docs | Cloud security | [docs.aws.amazon.com/security](https://docs.aws.amazon.com/security/) |
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suriya%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suriya-r)
+[![GitHub](https://img.shields.io/badge/GitHub-Suriya52-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suriya52)
+[![Email](https://img.shields.io/badge/Email-surya6379r%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya6379r@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-8667828601-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918667828601)
 
 *⭐ If this repo helps your learning journey, please give it a star!*
 
