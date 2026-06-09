@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive files — NEVER commit these
+*.key
+*.pem
+*.env
+credentials.txt
+passwords.txt
+api-keys.txt
+
+# VM files
+*.vmdk
+*.ova
+*.iso
+
+# Large pcap files (use Git LFS instead)
+*.pcap
+*.pcapng
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
